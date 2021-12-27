@@ -36,7 +36,7 @@ namespace ServerReservasi
             buttonOn.Enabled = true;
             buttonOff.Enabled = false;
             Host.Close();
-            labelKet.Text = "Klil ON untuk menjalankan Server";
+            labelKet.Text = "Klil ON untuk Menjalankan Server";
             labelOnOrOff.Text = "Server Off";
         }
     }
